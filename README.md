@@ -8,3 +8,7 @@ Belajar Prework Dicoding  . (Progress 70%)
 **19 Agustus 2023**<br>
 Belajar Prework Dicoding   . (Progress 80%)
 * Belajar tentang Git dan Github
+
+**20 Agustus 2023**<br>
+Belajar Prework Dicoding   . (Progress 100%)
+* Mengikuti Ujian Akhir
